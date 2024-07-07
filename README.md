@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Vijitha Viswanathan 👋
+
+I am a Programmer Analyst at [Cognizant Technology Solutions](https://www.cognizant.com/in/en) with 1+ Years of experience Speciliazing in 💻Remote Desktop Services. I provide remote assistance to users in resolving problems with their desktop computers, laptops, printers, and network connections. I am passionate about continuous learning and am committed to staying at the forefront of technological advancements. I am dedicated to honing my proficiency in Python, R, and Machine Learning. Find out more about me and feel free to connect with me 😄!! 
+
+[![Vijitha Viswanathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijithaviswanathan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vijithaviswanathan/vijithaviswanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
