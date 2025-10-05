@@ -12,7 +12,6 @@ I am a Programmer Analyst at [Cognizant Technology Solutions](https://www.cogniz
 
 # 📫 How to Reach me?
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/vijitha-viswanathan-9302b61a5/)<br>
-⦿ Visit my [Website](https://vijitha-portfolio.netlify.app/)<br>
 ⦿ Drop me an email at [Email](viswavijitha@gmail.com)
 
 ---
