@@ -1,24 +1,18 @@
 ## 👋 Hi, I'm **Vijitha Viswanathan**
 
-🎓 **Master’s Student in Data Science @ Rutgers University**  
-💼 Former **Programmer Analyst (1.9 years)**  
-📍 Based in the USA | Actively seeking **Summer 2026 Data Science / ML / Analytics Internships (CPT Eligible)**  
-
----
-
 ### 🚀 About Me
-I am passionate about building **data-driven solutions**, developing **machine learning models**, and working on **end-to-end analytics pipelines**.  
-My background blends **academic rigor** with **industry experience**, giving me the ability to solve real-world problems using data.
+I’m a Master’s student in **Data Science at Rutgers University**, passionate about transforming raw data into meaningful insights and building impactful machine learning solutions. With **1.9 years of experience as a Programmer Analyst**, I bring a strong foundation in analytical thinking, problem-solving, and writing clean, efficient code.
+
+I specialize in building **end-to-end data science workflows** — from data collection and preprocessing to modeling, evaluation, and visualization. My interest lies in using data to address real-world challenges across finance, e-commerce, marketing, and social analytics.
 
 ---
 
-### 🔍 Interests & Skills
-- 📊 **Data Analysis & Visualization**  
-- 🤖 **Machine Learning & Predictive Modeling**  
-- 🧹 **Data Wrangling & Feature Engineering**  
-- 🔢 **Statistical Modeling & Forecasting**  
-- 🧠 **NLP & Text Analytics**  
-- 🛠️ **Python · R · SQL · Scikit-Learn · Pandas · NumPy · TensorFlow · Git**
+### 💡 **What I Love Working On**
+- Turning complex datasets into **actionable insights**  
+- Designing **machine learning models** that solve real problems  
+- Creating clean and reproducible data pipelines  
+- Communicating results through compelling **visualizations**  
+- Exploring how data science impacts decision-making in industries
 
 ---
 
@@ -32,8 +26,8 @@ My background blends **academic rigor** with **industry experience**, giving me 
 ---
 
 ### 🔗 Let’s Connect
-📫 Email: viswavijitha@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/vijithaviswanathan/
+- 📫 Email: viswavijitha@gmail.com 
+- 🔗 LinkedIn: https://www.linkedin.com/in/vijithaviswanathan/
 
 Thanks for visiting my profile! Feel free to explore my repositories 🚀  
 
