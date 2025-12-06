@@ -1,45 +1,74 @@
-## Hi, I'm Vijitha Viswanathan 👋
+## 👋 Hi, I'm **Vijitha Viswanathan**
 
-I’m a Master’s student in Data Science at Rutgers University with 1.9 years of experience as a Programmer Analyst. I’m passionate about building data-driven solutions and developing real-world machine learning applications.
+🎓 **Master’s Student in Data Science @ Rutgers University**  
+💼 Former **Programmer Analyst (1.9 years)**  
+📍 Based in the USA | Actively seeking **Summer 2026 Data Science / ML / Analytics Internships (CPT Eligible)**  
 
-My academic and project experience spans:
+---
 
-Data Science & Machine Learning
+### 🚀 About Me
+I am passionate about building **data-driven solutions**, developing **machine learning models**, and working on **end-to-end analytics pipelines**.  
+My background blends **academic rigor** with **industry experience**, giving me the ability to solve real-world problems using data.
 
-Data Wrangling, Feature Engineering, and Statistical Modeling
+---
 
-Predictive Analytics & Forecasting
+### 🔍 Interests & Skills
+- 📊 **Data Analysis & Visualization**  
+- 🤖 **Machine Learning & Predictive Modeling**  
+- 🧹 **Data Wrangling & Feature Engineering**  
+- 🔢 **Statistical Modeling & Forecasting**  
+- 🧠 **NLP & Text Analytics**  
+- 🛠️ **Python · R · SQL · Scikit-Learn · Pandas · NumPy · TensorFlow · Git**
 
-NLP, E-commerce Analytics, and Churn Prediction
+---
 
-Bank Loan Approval Prediction using Ensemble Learning
+### 📚 Academic & Project Experience
+- 📈 **E-Commerce Customer Behavior & Churn Analysis**  
+- 🏦 **Bank Loan Approval Prediction (Ensemble ML models)**  
+- 🎓 **Educational Technology & Workforce Analytics**  
+- 💬 **Social Media Sentiment & Brand Valuation**  
+- 🛒 **Marketing & Sales Data Forecasting Projects**
 
-I enjoy working on end-to-end data science pipelines — from data cleaning and EDA to model building, evaluation, and deployment.
-Currently, I’m building projects in:
+---
 
-Churn Analysis
+### 🔗 Let’s Connect
+📫 Email: viswavijitha@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/vijithaviswanathan/
 
-Loan Approval Prediction (Ensemble ML)
-
-Educational Technology & Workforce Analytics
-
-Social Media Sentiment & Brand Valuation
-
-I’m actively seeking Summer 2026 Data Science / ML / Analytics internships (CPT eligible).
-Feel free to explore my repositories or connect with me!
+Thanks for visiting my profile! Feel free to explore my repositories 🚀  
 
 
 # 💻 Skills and Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- 🧑‍💻 Programming Languages : ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
+- 🤖 Machine Learning : ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-%23007ACC.svg?style=for-the-badge)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-%2300A98F.svg?style=for-the-badge)
+![Ensemble Learning](https://img.shields.io/badge/Ensemble%20Learning-%23F7931E.svg?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-%2300599C.svg?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-%23C71585.svg?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time%20Series-%230F52BA.svg?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- 📊 Data Analysis & Visualization : ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%233176AB.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23435EAB.svg?style=for-the-badge)
+![ggplot](https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+- 📈 Statistical & Analytical Skills : ![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-%2300A36C.svg?style=for-the-badge)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-%230084D3.svg?style=for-the-badge)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-%23A020F0.svg?style=for-the-badge)
+![Trend Analysis](https://img.shields.io/badge/Trend%20%26%20Correlation%20Analysis-%23B22222.svg?style=for-the-badge)
+- 🛠 Tools & IDEs : ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-%23276DC3.svg?style=for-the-badge&logo=rstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vijithaviswanathan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vijithaviswanathan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijithaviswanathan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📫 How to Reach me?
-⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/vijitha-viswanathan-9302b61a5/)<br>
-⦿ Drop me an email at [Email](viswavijitha@gmail.com)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vijithaviswanathan&icon=0&color=0)](https://visitcount.itsvg.in)
